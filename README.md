@@ -6,8 +6,8 @@ I am a longtime builder in the crypto/blockchain/web3 software space. I have hel
 
 I'm not on social media because I think it's net negative for my wellbeing, so the best way to contact to me is to know me in person, or make an issue here with info on how to contact you.
 
-- 🔭 I’m currently looking for a software developer role in web3, primarily in node client development.
-- 🌱 I’m currently learning how to raise a daughter
-- 👯 I’m looking to collaborate on anything you're working on in web3 where you think I could be helpful
+- ⚙️ I'm currently building a company called Tools for Thought
+- 🌱 I’m currently learning how to raise a daughter and son
+- 👯 I’m looking for a cofounder with marketing design and curiosity skills
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/melvillevt/im-a-cm-b.svg)](https://www.codementor.io/@melvillevt?refer=badge)
